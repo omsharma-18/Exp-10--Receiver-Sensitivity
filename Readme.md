@@ -72,3 +72,7 @@ Your report should include:
 - Discussion of differences between analytical and simulation results.  
 
 ---
+## Result
+<img width="1280" height="571" alt="image" src="https://github.com/user-attachments/assets/08534187-030a-446b-859d-fc305ba3a7fd" />
+
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/09da55a3-27bb-4432-97fa-34ca87826e59" />
